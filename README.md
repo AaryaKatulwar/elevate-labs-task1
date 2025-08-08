@@ -55,5 +55,7 @@ https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ## 📎 File Structure
 ├── Titanic-Dataset.csv
+
 ├── task1.ipynb
+
 ├── README.md
